@@ -31,7 +31,7 @@
 1. Clone this repository to your local machine:
    
    ```bash
-   git clone https://github.com/your-username/versiculo-diario.git
+   git clone https://github.com/brun0muril0/daily-verse.git
 
 2. Navigate to the project directory:
    
